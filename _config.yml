@@ -11,9 +11,9 @@ title                    : "博客"
 title_separator          : "-"
 name                     : "刘向"
 description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://blog.newshell.me"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "newshell/newshell.github.com"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
@@ -80,8 +80,8 @@ author:
   name             : "newshell"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  location         : "Wuhan"
+  email            : "liuxiang@hust.edu.cn"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "github.com/newshell"
   google_plus      :
   keybase          :
   instagram        :
