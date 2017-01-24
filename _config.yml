@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "newshell"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "学生"
   location         : "Wuhan"
   email            : "liuxiang@hust.edu.cn"
   uri              :
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "github.com/newshell"
+  github           : "newshell"
   google_plus      :
   keybase          :
   instagram        :
